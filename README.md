@@ -1,6 +1,6 @@
 # Multi-Cascaded Convolutional Network
 
-An efficient, multi-task cascaded convolutional neural network for solving the pediatric vehicular heatstroke (PVH) problem. 
+An efficient, multi-task cascaded convolutional neural network
 
 full_pipeline.ipynb: full detection pipeline implementation
 
